@@ -46,8 +46,7 @@ Certificação concedida pela Reitoria após conclusão das disciplinas necessá
 - Organização e boas práticas de código  
 - Fundamentos de programação
 
-📄 [Visualizar certificado]([./certificado-frontend.pdf](https://portalaluno.unisanta.br/Documentos/RecuperaDocumento?CodDocumento=1006478))
-
+📄 [Visualizar certificado](./certificado-frontend.pdf)
 ---
 
 ## 📚 Em evolução constante
